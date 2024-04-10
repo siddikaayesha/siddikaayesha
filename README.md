@@ -1,5 +1,4 @@
 ![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/435793261_730592192577529_7075012116805405534_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGEmaRT3Vw7g85yU1N6o8IC7-QDEehdjGTv5AMR6F2MZL40upH_O_cbgJvNs7rF0riRRppD5_DBXhkW0_1YZxQi&_nc_ohc=eDSFW0FWJ_8Ab5mDhza&_nc_ht=scontent.fdac151-1.fna&oh=00_AfB-w-WEG2o-V6mguMqxwTkcAhz5HWmkb9HZkVAvRZZUCA&oe=661C4283)
-![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/435793261_730592192577529_7075012116805405534_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGEmaRT3Vw7g85yU1N6o8IC7-QDEehdjGTv5AMR6F2MZL40upH_O_cbgJvNs7rF0riRRppD5_DBXhkW0_1YZxQi&_nc_ohc=eDSFW0FWJ_8Ab5mDhza&_nc_ht=scontent.fdac151-1.fna&oh=00_AfB-w-WEG2o-V6mguMqxwTkcAhz5HWmkb9HZkVAvRZZUCA&oe=661C4283)
 
 
 ### Hi there 👋, my name is Ayesha Siddika
