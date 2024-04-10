@@ -1,6 +1,4 @@
-![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/435793261_730592192577529_7075012116805405534_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGEmaRT3Vw7g85yU1N6o8IC7-QDEehdjGTv5AMR6F2MZL40upH_O_cbgJvNs7rF0riRRppD5_DBXhkW0_1YZxQi&_nc_ohc=eDSFW0FWJ_8Ab5mDhza&_nc_ht=scontent.fdac151-1.fna&oh=00_AfB-w-WEG2o-V6mguMqxwTkcAhz5HWmkb9HZkVAvRZZUCA&oe=661C4283)
-
-
+![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/435688581_730595605910521_7619238135553137953_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHLgAxpCxGv8-Z6AAUMS_hIxsT4ya-8dbDGxPjJr7x1sMINw-hOqNYYffHIYamqRUkRVj_Y1KniZY0yDKKfegWk&_nc_ohc=CVZ3ugu8LLkAb5w9RVY&_nc_ht=scontent.fdac151-1.fna&oh=00_AfDYRU-8Y08xxlM1p7Y3bnrjTPBIrY3zGP8uD1jx1GNKTg&oe=661C225F)
 ### Hi there 👋, my name is Ayesha Siddika
 #### Web Developer
 
