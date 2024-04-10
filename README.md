@@ -1,7 +1,7 @@
-![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/319549468_453755416927876_3880311298824773702_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHiRoJI8Jl5QNC9D99v8y_7p0kj010KGBSnSSPTXQoYFNeYPAd9XxZeQlmUfC6tmqXjNDcitiAAJpwYRRiR0zsI&_nc_ohc=DipGqtb8-HcAb77-jVO&_nc_ht=scontent.fdac151-1.fna&oh=00_AfAUrkZPEXfOwSuycT69-oJMuTnWM3UvFrgc-WIZ79Zo5w&oe=661C2EE8)
+![Web Developer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/435793261_730592192577529_7075012116805405534_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGEmaRT3Vw7g85yU1N6o8IC7-QDEehdjGTv5AMR6F2MZL40upH_O_cbgJvNs7rF0riRRppD5_DBXhkW0_1YZxQi&_nc_ohc=eDSFW0FWJ_8Ab5mDhza&_nc_ht=scontent.fdac151-1.fna&oh=00_AfB-w-WEG2o-V6mguMqxwTkcAhz5HWmkb9HZkVAvRZZUCA&oe=661C4283)
+
 ### Hi there 👋, my name is Ayesha Siddika
 #### Web Developer
-
 
 As an enthusiastic Computer Science and Engineering student, I'm driven by a passion for leveraging technology for positive change. I am known for my expertise in web development, my attention to detail, my creative approach, and my excellent communication skills. These qualities, combined with my passion for delivering top-notch websites, make make the best web developer.
 
