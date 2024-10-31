@@ -7,7 +7,6 @@ As an enthusiastic Computer Science and Engineering student, I'm driven by a pas
 
 Skills: HTML/ CSS / Tailwind / Daisy UI/Bootstrap / PHP / C / C++ / Python / Java
 
-- 🔭 I’m currently working on Winky Tech Limited 
 - 👯 I’m looking to collaborate on github 
 
 
